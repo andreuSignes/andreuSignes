@@ -42,7 +42,7 @@
 
 ![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=andreuSignes&show_icons=true&theme=tokyonight&hide_border=true)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=andreuSignes&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=andreuSignes&theme=tokyonight&hide_border=true)
 
 ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=andreuSignes&layout=compact&theme=tokyonight&hide_border=true)
 
