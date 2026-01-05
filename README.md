@@ -6,5 +6,7 @@
  
 ## My current stats
 
-[![Andreu' Github Stats](https://github-readme-stats.vercel.app/api?username=andreuSignes&count_private=true&theme=default&show_icons=true)](https://github.com/andreuSignes)
+[![Andreu' Github Stats](https://github-readme-stats.vercel.app/api?username=andreuSignes&show_icons=true&theme=default&count_private=true)](https://github.com/andreuSignes)
 
+Current Date and Time (UTC - YYYY-MM-DD HH:MM:SS formatted): 2026-01-05 10:46:41
+Current User's Login: andreuSignes
