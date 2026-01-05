@@ -62,6 +62,34 @@
 
 ---
 
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=andreuSignes&theme=tokyonight&no-frame=true&row=1&column=7" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=andreuSignes&theme=flat&no-frame=true&row=1&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=andreuSignes&theme=flat&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
+</picture>
+
+</div>
+
+---
+
+## 🐍 Contribution Graph
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/andreuSignes/andreuSignes/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/andreuSignes/andreuSignes/output/github-snake.svg" />
+  <img src="https://raw.githubusercontent.com/andreuSignes/andreuSignes/output/github-snake.svg" alt="Snake animation" />
+</picture>
+
+</div>
+
+---
+
 <div align="center">
 
 ### 💬 Let's Connect!
