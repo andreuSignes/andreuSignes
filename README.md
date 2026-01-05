@@ -62,6 +62,22 @@
 
 ---
 
+## 🏢 Organizations
+
+<div align="center">
+
+<a href="https://github.com/GVA-Sanitat">
+  <img src="https://avatars.githubusercontent.com/u/205307143?v=4" width="80" height="80" alt="GVA Sanitat" title="GVA Sanitat - Conselleria Sanitat - Generalitat Valenciana" style="border-radius: 50%;" />
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/12-Ceps">
+  <img src="https://avatars.githubusercontent.com/u/240579540?v=4" width="80" height="80" alt="12 Ceps" title="12 Ceps" style="border-radius: 50%;" />
+</a>
+
+</div>
+
+---
+
 ## 🏆 GitHub Trophies
 
 <div align="center">
