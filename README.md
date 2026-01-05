@@ -40,15 +40,27 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=andreuSignes&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="GitHub Stats" height="170"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=andreuSignes&show_icons=true&theme=tokyonight&hide_border=true" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=andreuSignes&show_icons=true&theme=default&hide_border=true" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=andreuSignes&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="170"/>
+</picture>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=andreuSignes&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=C9D1D9" alt="GitHub Streak" height="170"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=andreuSignes&theme=tokyonight&hide_border=true" />
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=andreuSignes&theme=default&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=andreuSignes&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="170"/>
+</picture>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreuSignes&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" height="170"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=andreuSignes&layout=compact&theme=tokyonight&hide_border=true" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=andreuSignes&layout=compact&theme=default&hide_border=true" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=andreuSignes&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170"/>
+</picture>
 
 </div>
 
