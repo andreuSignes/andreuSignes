@@ -40,27 +40,11 @@
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=andreuSignes&show_icons=true&theme=tokyonight&hide_border=true" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=andreuSignes&show_icons=true&theme=default&hide_border=true" />
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=andreuSignes&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="170"/>
-</picture>
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=andreuSignes&show_icons=true&theme=tokyonight&hide_border=true)
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=andreuSignes&theme=tokyonight&hide_border=true" />
-  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=andreuSignes&theme=default&hide_border=true" />
-  <img src="https://streak-stats.demolab.com?user=andreuSignes&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="170"/>
-</picture>
+![GitHub Streak](https://streak-stats.demolab.com?user=andreuSignes&theme=tokyonight&hide_border=true)
 
-</div>
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=andreuSignes&layout=compact&theme=tokyonight&hide_border=true" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=andreuSignes&layout=compact&theme=default&hide_border=true" />
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=andreuSignes&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170"/>
-</picture>
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=andreuSignes&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
 
