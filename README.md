@@ -40,11 +40,23 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=andreuSignes&show_icons=true&theme=tokyonight&hide_border=true)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=andreuSignes&show_icons=true&theme=tokyonight&hide_border=true" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=andreuSignes&show_icons=true&theme=default&hide_border=true" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=andreuSignes&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" />
+</picture>
 
-![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=andreuSignes&theme=tokyonight&hide_border=true)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats-eight.vercel.app?user=andreuSignes&theme=tokyonight&hide_border=true" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats-eight.vercel.app?user=andreuSignes&theme=default&hide_border=true" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=andreuSignes&theme=default&hide_border=true" alt="GitHub Streak" />
+</picture>
 
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=andreuSignes&layout=compact&theme=tokyonight&hide_border=true)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=andreuSignes&layout=compact&theme=tokyonight&hide_border=true" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=andreuSignes&layout=compact&theme=default&hide_border=true" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=andreuSignes&layout=compact&theme=default&hide_border=true" alt="Top Langs" />
+</picture>
 
 </div>
 
