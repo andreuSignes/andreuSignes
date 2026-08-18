@@ -43,16 +43,6 @@ _NestJS · Home Assistant · MQTT · Clean Architecture · TDD · Trunk-based de
 
 <div align="center">
 
-### 📅 Contribution graph
-
-<img src="https://ghchart.rshah.org/andreuSignes" alt="GitHub Contribution Chart" />
-
-</div>
-
----
-
-<div align="center">
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andres-signes-grimalt-77524b13/)
 
 ---
