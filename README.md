@@ -45,11 +45,7 @@ _NestJS · Home Assistant · MQTT · Clean Architecture · TDD · Trunk-based de
 
 ### 📅 Contribution graph
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=andreuSignes&theme=tokyo-night&hide_border=true&area=true" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=andreuSignes&theme=github&hide_border=true&area=true" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=andreuSignes&theme=github&hide_border=true&area=true" alt="Contribution Graph" />
-</picture>
+<img src="https://ghchart.rshah.org/andreuSignes" alt="GitHub Contribution Chart" />
 
 </div>
 
