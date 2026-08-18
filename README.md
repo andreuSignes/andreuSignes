@@ -12,9 +12,9 @@
 
 ## About
 
-Software engineer at **GVA Sanitat** (Conselleria de Sanitat, Generalitat Valenciana), focused on healthcare services for the Comunitat Valenciana.
+I build healthcare software at **GVA Sanitat** that has to work — patients don't care about your sprint velocity.
 
-Outside of work I run, hit the mountains, and tinker with Home Assistant — because dev ops at home is a hobby too.
+Stack: NestJS, Angular, Flutter. Hobby: Home Assistant. Off hours: running, mountains.
 
 ```yaml
 current_focus:
