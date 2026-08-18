@@ -38,6 +38,20 @@ current_focus:
 
 <div align="center">
 
+### 📅 Contribution graph
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=andreuSignes&theme=tokyo-night&hide_border=true&area=true" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=andreuSignes&theme=github&hide_border=true&area=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=andreuSignes&theme=github&hide_border=true&area=true" alt="Contribution Graph" />
+</picture>
+
+</div>
+
+---
+
+<div align="center">
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andres-signes-grimalt-77524b13/)
 
 ---
