@@ -1,0 +1,7 @@
+# OpenCode session artifacts
+.atl/
+
+# Editor / OS noise (precautionary)
+.DS_Store
+.idea/
+.vscode/
