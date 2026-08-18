@@ -45,12 +45,4 @@ _NestJS · Home Assistant · MQTT · Clean Architecture · TDD · Trunk-based de
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andres-signes-grimalt-77524b13/)
 
----
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=andreuSignes&show_icons=true&theme=tokyonight&hide_border=true" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=andreuSignes&show_icons=true&theme=default&hide_border=true" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=andreuSignes&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" />
-</picture>
-
 </div>
