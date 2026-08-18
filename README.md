@@ -14,7 +14,7 @@
 
 I build healthcare software at **GVA Sanitat** that has to work — patients don't care about your sprint velocity.
 
-Stack: NestJS, Angular, Flutter. Hobby: Home Assistant. Off hours: running, mountains.
+Dad of 2. Stack: NestJS, Angular, Flutter. Hobby: Home Assistant. Off hours: running, mountains.
 
 ```yaml
 current_focus:
